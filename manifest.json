@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Mexico Facts",
+    "version": "0.1",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "icons": {
+        "128": "assets/img/M_Logo.png"
+    }
+}
