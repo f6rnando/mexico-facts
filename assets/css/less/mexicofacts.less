@@ -14,32 +14,38 @@ body {
     }
 
     .card {
-        border     : 3px solid black;
+        background: #efefef;
+        border     : 1px solid #1a1a1a;
+        border-radius: 7px;
+        box-shadow: 2px 5px 15px #5d5757;
         display    : block;
         height     : 500px;
         left       : 50%;
         margin     : auto;
         margin-top : 65px;
         text-align : center;
-        width      : 400px;
+        width      : 500px;
 
         .card-header {
-            height : 45%;
-            padding: 15px;
+            background: #d2d2d2;
+            border-radius: 8px;
+            height : 10%;
+            padding: 10px;
 
             p {
-                font-size: 1.5em;
+                bottom: 26px;
+                font-size: 2em;
+                font-weight: bold;
+                position: relative;
             }
         }
 
         .card-body {
-            border-top: 3px solid black;
-            height    : 50%;
+            border-top: 1px solid #1a1a1a;
             padding   : 15px;
             
             p {
-                font-size: 2em;
-                font-weight: bold;
+                font-size: 1.5em;
             }
         }
     }

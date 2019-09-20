@@ -1,22 +1,22 @@
 // Author: Fernando Pinto f6rnando@gmail.com
 
 function getRandomFact() {
-    let entriesCount = entries.length;
-    let randomEntry = Math.floor(Math.random() * entriesCount);
+  let entriesCount = entries.length;
+  let randomEntry = Math.floor(Math.random() * entriesCount);
 
-    let $cardHead = $("#container").find(".card-header");
-    let $cardBody = $("#container").find(".card-body");
+  let $cardHead = $("#container").find(".card-header");
+  let $cardBody = $("#container").find(".card-body");
 
-    $cardHead.html("<p>" + entries[randomEntry].question + "<p>");
-    $cardBody.html("<p>" + entries[randomEntry].answer + "<p>");
+  $cardHead.html("<p>" + entries[randomEntry].title + "<p>");
+  $cardBody.html("<p>" + entries[randomEntry].description + "<p>");
 }
 
 function paintBackground() {
-    let colorCount = backgrounds.length;
-    let randomBkg = Math.floor(Math.random() * colorCount);
+  let colorCount = backgrounds.length;
+  let randomBkg = Math.floor(Math.random() * colorCount);
 
-    let $body = $("body");
-    $body.css("background", backgrounds[randomBkg]);
+  let $body = $("body");
+  $body.css("background", backgrounds[randomBkg]);
 }
 
 paintBackground();
