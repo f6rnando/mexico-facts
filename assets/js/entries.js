@@ -33,52 +33,52 @@ var entries = [{
     "description": "En la época de la colonización española se usaba el término <strong>Criollos</strong> para denotar a los hijos de Españoles nacidos en México."
   },
   {
-    "title": "Colonización Quien fundó Villa Rica de la Vera Cruz",
+    "title": "Colonización",
     "description": "La <strong>Villa Rica de la Vera Cruz</strong> fue fundada el 22 de Abril de 1519 por Hernán Cortéz."
   },
   {
     "title": "Geografía",
-    "description": "El <strong>Río Bravo</strong> (también conocido como Río Grande en EEUU) delita la frontera sur de EEUU por Colorado, Nuevo México y Texas y la frontera norte de México por Chihuahua, Coahuila, Nuevo León y Tamaulipas. Con 3034 km de longitud es el río más grande de México."
+    "description": "El <strong>Río Bravo</strong> (también conocido como Río Grande en EEUU) delimita la frontera sur de EEUU por Colorado, Nuevo México y Texas y la frontera norte de México por Chihuahua, Coahuila, Nuevo León y Tamaulipas. Con 3034 km de longitud es el río más grande de México."
   },
   {
     "title": "Geografía",
     "description": "<strong>Cuidad de México</strong> (CDMX) es la capital de los Estados Unidos Mexicanos y la cuidad más poblada de México con 8.9 millones de habitantes en una extensión de 1495 km<sup>2</sup> o 22 millones de habitantes si se considera la Zona Metropolitana del Valle de México."
   },
   {
-    "title": "Sitio dónde estudiaban los indígenas en el virreinato",
-    "description": "Colegio de la Santa Cruz de Tlatelolco"
+    "title": "Historia Colonial",
+    "description": "El <strong>Colegio de la Santa Cruz de Tlatelolco</strong> fue la primera institución de educación superior de América, preparatoria a la universidad, destinada a los indígenas en la época del Virreinato."
   },
   {
-    "title": "Ciudad que floreció en el Valle de México tras el abandono de Cuicuilco",
-    "description": "Teotihuacán"
+    "title": "Cuidades antiguas",
+    "description": "La zona de Cuicuilco fue destruida luego de la erupción del Volcán Xitle. <strong>Teotihuacán</strong> florece en el Valle de México tras el abandono de esta zona."
   },
   {
-    "title": "La división básica de la sociedad Nahua era",
-    "description": "Pipiltin/Maeehual"
+    "title": "Culturas antiguas",
+    "description": "La división básica de la sociedad Nahua era <strong>Pipiltin/Macehual</strong>.<br />Los Pipiltin se conformaban de familias de políticos, sacerdotes y militares, estos eran poseedores de tierras y sirvientes. Por el contrario, Macehual refiere a \"sujeto común\", desde esclavos hasta mercaderes."
   },
   {
-    "title": "Con la llegada al trono español de Felipe V, la Nueva España fue sometida a una serie de procesos de modernización. ¿Cómo se le conoce a esta etapa?",
-    "description": "Las Reformas Borbónicas"
+    "title": "Historia Colonial",
+    "description": "<strong>Las Reformas Borbónicas</strong> fue la etapa en donde se llevaron a cabo una serie de procesos de modernización en la Nueva España luego de la llegada al trono del rey español Felipe V."
   },
   {
-    "title": "Precepto no incluido en el Plan de Iguala de febrero de 1821",
-    "description": "La Creación de una República"
+    "title": "Independencia",
+    "description": "<strong>El Plan de Iguala</strong> fue un documento proclamado por Agustín Iturbide en Guerrero el 24 de Febrero de 1821 en el cual se declaraba a la Nueva España como país independiente, incluyendo: <li><ol>Establecer la independencia de México</ol><ol>Mantener la monarquía de Fernando VII</ol><ol>Establecer la religión católica como única</ol><ol>La unión de todas las clases sociales</ol></li>"
   },
   {
-    "title": "¿Cuál fue el primer Estado europeo que otorgó su reconocimiento a la existencia de México como país independiente?",
-    "description": "Gran Bretaña"
+    "title": "Independencia",
+    "description": "<strong>Gran Bretaña</strong> fue el primer estado europeo en otorgar el reconocimiento a la existencia de México como país independiente."
   },
   {
-    "title": "Año en que Texas proclamó su independencia",
-    "description": "1836"
+    "title": "Independencia",
+    "description": "La Revolución de Texas fue un conflicto bélico entre México y las provincias de Texas el cual finalizó con la <strong>independencia de Texas en el año 1836.</strong>"
   },
   {
-    "title": "Levantamiento que dio el triunfo a Porfirio Díaz en 1876",
-    "description": "Plan de Tuxtepec"
+    "title": "Historia",
+    "description": "El <strong>Plan de Tuxtepec</strong> fue elaborado por Porfirio Díaz como una declaración para derrocar al gobierno de Sebastián Lerdo de Tejada, anunciado el 10 de Enero de 1876."
   },
   {
-    "title": "Grupos rivales enfrentados a partir de la Convención de Aguascalientes:",
-    "description": "Convencionistas/Constitucionalistas"
+    "title": "Revolución",
+    "description": "La <strong>Convención de Aguascalientes</strong> fue una reunión de la Revolución Mexicana celebrada en 1914 convocada por Venustiano Carranza para unificar a las fracciones revolucionarias antagónicas, pero resultando en el enfrentamiento de grupos rivales Convencionistas/Constitucionalistas."
   },
   {
     "title": "Fundaron el periódico opositor Regeneración, cuestionaron la conveniencia de la inversión extranjera y, después de haber sido reprimidos por el gobierno porfirista, redactaron el Programa del Partido Liberal",
@@ -380,18 +380,18 @@ var entries = [{
 ];
 
 var backgrounds = [
-  "#cc5a5a",
-  "#e67349",
-  "#edb947",
-  "#c4c431",
-  "#86ba56",
-  "#6dd17c",
-  "#36e3a1",
-  "#34afbf",
-  "#5e88d1",
-  "#9b8dc2",
-  "#ad58cc",
-  "#c767bf",
-  "#c44183",
-  "#c25757"
+  "#ccc",
+  "#d8aeae",
+  "#b698b9",
+  "#b1a3bb",
+  "#a198b9",
+  "#8b98d0",
+  "#8bafd0",
+  "#8bbfd0",
+  "#8bd0be",
+  "#8bd095",
+  "#aeca98",
+  "#cac798",
+  "#cab398",
+  "#f5c58d"
 ];

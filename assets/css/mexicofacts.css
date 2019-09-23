@@ -34,10 +34,11 @@ body {
 }
 
 #container .card .card-header p {
-  bottom: 26px;
   font-size: 2em;
   font-weight: bold;
+  margin: 0;
   position: relative;
+  top: 10px;
 }
 
 #container .card .card-body {
