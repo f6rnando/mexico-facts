@@ -4,6 +4,13 @@ body {
   font-family: "Helvetica Neue", "Helvetica", "Roboto", "Segoe UI", "Arial", "sans-serif";
 }
 
+ol,
+ul {
+  font-size: 14px;
+  text-align: left;
+  padding-inline-start: 50px;
+}
+
 #container .title {
   left: 50%;
   margin: auto;
