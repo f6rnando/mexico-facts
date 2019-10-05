@@ -109,8 +109,8 @@ var entries = [{
     "description": "<strong>María de los Ángeles Félix</strong> fue una de las actrices mexicanas más importantes de la Época de Oro del cine mexicano, considerada una de las actrices más bellas de su tiempo. Su trayectoria cinematográfica comprendió de 47 películas realizadas entre México, España, Francia, Italia y Argentina."
   },
   {
-    "title": "Pintor que inició lo que se conoce como \"La Escuela Oaxaqueña\" y cuya obra simboliza la ruptura y la continuidad de la tradición",
-    "description": "Francisco Toledo"
+    "title": "Arte y Cultura",
+    "description": "<strong>Francisco Benjamín López Toledo</strong>, conocido como <strong>Francisco Toledo</strong>, fue un artista plástico autodidacta proveniente de Oaxaca, apoyó diversas causas dirigidas a preservar el patrimonio artístico mexicano. Inició lo que se conoce como \"La Escuela Oaxaqueña\". Se le asocia a la Generación de la Ruptura incorporando valores más abstractos y apolíticos a su obra."
   },
   {
     "title": "UNESCO",
@@ -118,7 +118,7 @@ var entries = [{
   },
   {
     "title": "Naturaleza",
-    "description": "Aunque la mayor parte del país goza de un <strong>clima seco<strong>, en México es posible encontrar climas fríos de alta montaña a climas calurosos de la llanura costera, esto coloca a México como un país de gran diversidad climática."
+    "description": "Aunque la mayor parte del país goza de un <strong>clima seco</strong>, en México es posible encontrar climas fríos de alta montaña a climas calurosos de la llanura costera, esto coloca a México como un país de gran diversidad climática."
   },
   {
     "title": "Arte y Cultura",
@@ -185,7 +185,7 @@ var entries = [{
     "description": "La <strong>Constitución Política de la República Mexicana</strong> de 1857 fue una constitución de ideología liberal, redactada durante la presidencia de Ignacio Comonfort, fue jurada y firmada el 5 de Febrero de 1857."
   },
   {
-    "title": "Historia y Cultura",
+    "title": "Legislación y Política",
     "description": "Los Símbolos Pátrios mexicanos son:<br /><ol><li>El Himno Nacional - A pesar de usarse desde 1854 se hizo oficial desde 1943</li><li>La Bandera - El diseño actual se adoptó desde el 16 de Septiembre de 1968</li><li>El Escudo - Inspirado en la leyenda de la fundación de México-Tenochtitlan, su diseño actual se usa desde 1968</li></ol>"
   },
   {
@@ -193,7 +193,7 @@ var entries = [{
     "description": "<strong>Amparo Dávila</strong> es una escritora mexicana a quién se le dio el honor de un Premio Nacional de Cuento Fantástico con su nombre otorgado por Bellas Artes."
   },
   {
-    "title": "Historia",
+    "title": "Legislación y Política",
     "description": "En 27 de Enero de 1857 el presidente Ignacio Comonfort decretó la <strong>Ley Orgánica del Registro Civil</strong>, dando así la creación y organización del primer Registro Civil en México."
   },
   {
@@ -206,7 +206,7 @@ var entries = [{
   },
   {
     "title": "Historia",
-    "description": "<strong>Cuidad de México</strong> fue conocida como México DF (o Distrito Federal) hasta el 30 de Enero de 2016 cuando entró en vigor el decreto de la Constitución Política de los Estados Unidos Mexicanos en materia de reforma política de la Cuidad de México."
+    "description": "<strong>Cuidad de México</strong> fue conocida como México DF (Distrito Federal) hasta el 30 de Enero de 2016 cuando entró en vigor el decreto de la Constitución Política de los Estados Unidos Mexicanos en materia de reforma política de la Cuidad de México."
   },
   {
     "title": "Historia",
@@ -226,7 +226,7 @@ var entries = [{
   },
   {
     "title": "Educación",
-    "description": "La <strong>educación en México</strong> se compone de:<br /><br />Educación Básica<br /><ul><li>Preescolar: 3 años</li><li>Educación Primaria: 6 anos</li><li>Educación Secundaria: 3 años</li></ul><br /><br />Educación Media Superior (Preparatoria): 2 o 3 años<br /><br />Educación Superior"
+    "description": "La <strong>educación en México</strong> se compone de:<br /><br />Educación Básica<br /><ul><li>Preescolar: 3 años</li><li>Educación Primaria: 6 anos</li><li>Educación Secundaria: 3 años</li></ul><br /><br /><p>Educación Media Superior (Preparatoria): 2 o 3 años<br /><br />Educación Superior</p>"
   },
   {
     "title": "Arte y Cultura",
@@ -239,95 +239,95 @@ var entries = [{
   {
     "title": "Arte y Cultura",
     "description": "<strong>La noche de Tlatelolco: Testimonios de historia oral</strong> es una crónica de Elena Poniatowska (periodista mexicana ganadora del Premio Cervantes de Literatura) que se basa en la matanza estudiantil que tuvo lugar en la Plaza de las Tres Culturas de Tlatelolco el 2 de Octubre de 1968."
+  },
+  {
+    "title": "Independencia",
+    "description": "<strong>José Miguel Ramón Adaucto Fernández y Félix</strong>, mejor conocido como <strong>Guadalupe Victoria</strong>, fue una de las figuras más destacadas en la Guerra de Independencia de México frente al Imperio español, fue el primer Presidente de México, ocupando el periodo de Octubre de 1824 a Marzo de 1829. Sus restos se encuentran en el Monumento a la Independencia, junto a los de Miguel Hidalgo, José María Morelos, Vicente Guerrero, Nicolás Bravo y otros insurgentes. Es considerado Benemérito de la Patria."
+  },
+  {
+    "title": "Legislación y Política",
+    "description": "La <strong>Bandera Nacional</strong> es uno de los Símbolos Patrios Mexicanos. En sus colores presenta el verde que simboliza la esperanza del pueblo en el destino de su raza, el blanco representa la pureza de los ideales del pueblo y el rojo simboliza la sangre que derramaron los héroes por la patria."
+  },
+  {
+    "title": "Legislación y Política",
+    "description": "El <strong>Escudo Nacional</strong> está constituido por un águila, posada su garra izquierda sobre un nopal floreciendo que nace en una peña que emerge de un lago, sujeta con la derecha y con el pico, en actitud de devorar a una serpiente curvada, varias pencas del nopal se ramifican a los lados, dos ramas, una de encino al frente del águila y otra de laurel al lado opuesto. Se inspira en la leyenda de la fundación de México-Tenochtitlan, cuando Huitzilopochtli, dios de la guerra, indicó a los mexicas que establecieran su cuidad en donde encontraran un águila posada en un nopal."
+  },
+  {
+    "title": "Legislación y Política",
+    "description": "El <strong>Himno Nacional</strong> (Mexicanos al grito de guerra) fue interpretado por primera vez la primera noche del 15 de septiembre de 1854, en el teatro Santa Anna (o Teatro Nacional). El Himno Nacional es una exhortación a la guerra defensiva, alude a las victorias mexicanas y trata sobre la defensa de la patria. Su letra fue compuesta por el poeta postosino Francisco González Bocanegra y su música por el músico español Jaime Nunó."
+  },
+  {
+    "title": "Gastronomía",
+    "description": "Los <strong>Escamoles</strong> formaban parte de la alimentación cotidiana de Mesoamérica. Son larvas de hormiga güijera, hoy en día vistos como un plato exótico en estados como Guanajuato, Hidalgo y Tlaxcala. Usualmente se frien con mantequilla y se acompañan en mixote, mole, barbacoa u otros guisos."
+  },
+  {
+    "title": "Arte y Cultura",
+    "description": "<strong>Francisco Gabilondo Soler</strong>, mejor conocido como <strong>Cri Cri</strong>, fue un cantautor mexicano de música infantil. Fue presentador de un programa de radio para niños, para el cual creó al personaje Cri Cri, el grillito cantor. Entre sus primeras emisiones destacaron las canciones <ul><li>El Chorrito</li><li>Batallón de Plomo</li><li>Bombón</li><li>El Ropero</li></ol>"
+  },
+  {
+    "title": "Legislación y Política",
+    "description": "El <strong>Presidente de los Estados Unidos Mexicanos</strong> es el titular del Poder Ejecutivo, Jefe de Estado, Jefe de Gobierno y Comandante supremo de las Fuerzas Armadas. Es elegido mediante el voto directo, toma funciones del cargo el 1ero de Diciembre del año de la elección. Su cargo dura 6 años sin posibilidad de reelección."
+  },
+  {
+    "title": "Arte y Cultura",
+    "description": "<strong>Jorge Ibargüendoitia</strong> fue un escritor mexicano con alto sentido crítico, famoso por el sarcasmo fino impreso en su obra. Su primera novela fue <strong>Relámpagos de Agosto</strong>, escrita en 1964 acerca de una farsa feroz de la última fase de la Revolución Mexicana."
+  },
+  {
+    "title": "Geografía",
+    "description": "<strong>La Peña de Bernal</strong> es el tercer monolito más grande del mundo, se ubica en el pueblo de Bernal en Querétaro. La peña se formó producto del agotamiento de actividad de un volcán. El magma sólido es lo que le da forma al monolito."
+  },
+  {
+    "title": "Historia",
+    "description": "El <strong>Monumento a la Independencia</strong>, conocido como <strong>Ángel de la Independencia</strong>, es un monumento que representa la celebración del centenario de la Independencia de México, fue inaugurado el 16 de Septiembre de 1910 por Porfirio Díaz en el actual Paseo de la Reforma.<br />El 28 de Julio de 1857, se registró en México un sismo de 7.7 en la escala Richter que provocó la caída de este importante monumento."
+  },
+  {
+    "title": "Geografía",
+    "description": "El <strong>Golfo de California</strong>, también llamado Mar de Cortés o Mar Bermejo, es una extensión del océano Pacífico y se ubica entre la Península de Baja California y los estados de Sonora y Sinaloa, al noroeste de México. Cuenta con una gran variedad de diversidad biológica gracias sus aguas abundantes en nutrientes."
+  },
+  {
+    "title": "Geografía",
+    "description": "Los <strong>Estados Unidos Mexicanos</strong> (nombre oficial de México), se ubica en la parte meridional de América del Norte. Su nombre deriva del vocablo Náhuatl y significa \"ombligo de la luna\". Políticamente es una república representativa, democrática, federal y laica, compuesta por 32 entidades federativas (31 estados y la capital federal). Cuenta con una superficie de 1.964.375 km².  Limita al norte con los Estados Unidos de América, mientras que al sur limita con Guatemala y con Belice. Las costas del país limitan al oeste con el Océano Pacífico y al este con el Golfo de México y el Mar Caribe. México cuenta con 127.500 millones de habitantes de los cuales 88.7 millones es su población votante."
+  },
+  {
+    "title": "Historia",
+    "description": "En la Nueva España, el <strong>virreinato</strong> fue establecido en 1353. El primer virrey fue Antonio de Mendoza y Pacheco, como máxima autoridad de Nueva España. A lo largo del virreinato, Nueva España fue gobernada por 62 virreyes."
+  },
+  {
+    "title": "Deidades antiguas",
+    "description": "<strong>Huiztilopochtli</strong> fue la principal deidad de los mexicas. Cuenta la leyenda que Huiztilopochtli ordena a los mexicas la fundación de México-Tenochtitlan en el lugar en donde encontraran un águila posada sobre un nopal. Según la mitología mexicana, Huiztilopochtli es el dios de la guerra y se le asocia con el sol."
+  },
+  {
+    "title": "Gastronomía",
+    "description": "Los <strong>Chapulines</strong> son insectos nativos de méxico, principalmente criados para ser consumidos. El origen de su nombre proviene del vocablo Náhuatl y significa \"insecto que brinca como pelota de hule.\""
+  },
+  {
+    "title": "Gastronomía",
+    "description": "Los <strong>Gusanos del Maguey</strong> son una de gusanos comestibles que infestan la planta de maguey. Son usados en la cocina mexicana por sus altas características nutricionales cuando están en etapa madura."
+  },
+  {
+    "title": "Arte y Cultura",
+    "description": "<strong>Juan Nepomuceno Carlos Pérez Rulfo Vizcaíno</strong>, conocido como <strong>Juan Rulfo</strong> fue un escritor, guionísta y fotógrafo mexicano, famoso por su obra de narrativa literaria como \"El llano en llamas\". Rulfo fue uno de los grandes escritores del siglo XX, destaca por la combinación de realidad y fantasía en escenarios post Revolución Mexicana."
+  },
+  {
+    "title": "Arte y Cultura",
+    "description": "La <strong>Guelaguetza</strong> es una celebración a la Virgen del Carmen que tiene lugar en Oaxaca. Se da lugar anualmente dos lunes después del 16 de Julio. Su origen proviene de los indígenas oaxaqueños que veneraban a la \"diosa del maíz\" por la que realizaban grandes honores y ofrendas, con la llegada de los españoles y la religión católica la celebración pasó a ser hacia la Virgen del Carmen."
+  },
+  {
+    "title": "Gastronomía",
+    "description": "El <strong>Mole</strong> consiste de varios tipos de salsas mexicanas hechas principalmente a base de chiles y especias. Su origen se remonta a la época prehispánica en 1685 en el convento de Santa Rosa de Lima Puebla. Originalmente hacía referencia a cualquier salsa y actualmente sirve para nombrar varios platillos de la cocina mexicana que contengan los siguientes ingredientes:<ol><li>Chocolate amargo</li><li>Chiles anchos</li><li>Chiles mulato</li><li>Chiles de pasilla</li><li><Chipotle/li><li>Jitomate</li><li>Almendras</li><li>Plátano</li><li>Nueces</li><li>Pasas</li><li>Ajonjolí</li><li>Clavo</li><li>Canela</li><li>Perejil</li><li>Pimienta</li><li>Cebolla</li><li>Ajo</li><li>Tortilla</li></ol>"
+  },
+  {
+    "title": "Arte y Cultura",
+    "description": "<strong>Mario Fortino Alfonso Moreno Reyes</strong>, mejor conocido como <strong>Cantinflas</strong>, fue un actor y productor comediante del cine mexicano. En su acto se enfatizaba aspectos del habla mexicana como entonación, léxico y sintaxis, lo que lo asoció con la identidad nacional de México. Cantinflas fue uno de los pioneros de la Época de Oro del Cine Mexicano."
+  },
+  {
+    "title": "Legislación y Política",
+    "description": "La <strong>Cámara de Senadores del Congreso de la Unión</strong>, pertenece al Poder Legislativo federal de México. Se compone de 128 senadores electos representantes de las entidades federativas para un período de 6 años.<br ><ul><li>2 Senadores por cada entidad federativa (31 estados y CDMX) - 64</li><li>32 Senadores a la primera minoría</li><li>32 Senadores electos según la representación proporcional</li></ul>"
   }
-  /*, 50
+  /*,
       {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
-      },
-      {
-          "title": "",
-          "description": ""
+          "title": "Arte y Cultura",
+          "description": "<strong>José Guadalupe Posada Aguilar</strong>, fue un ilustrador y caricaturista mexicano conocido por sus ilustraciones de calacas o calaveras, entre ellas La Catrina. Dibujó calaberas montadas a caballo y en bicicleta como crítica al gobierno."
       },
       {
           "title": "",
