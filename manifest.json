@@ -7,5 +7,8 @@
     },
     "icons": {
         "128": "assets/img/M_Logo.png"
-    }
+    },
+    "default_locale": "es",
+    "description": "Expand you knowledge about Mexico. Every time you open a new tab you'll get a random fact about Mexico.",
+    "author": "Fernando Pinto"
 }
