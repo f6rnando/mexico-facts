@@ -1,9 +1,4 @@
 /* Author: Fernando Pinto f6rnando@gmail.com */
-
-body {
-  font-family: "Helvetica Neue", "Helvetica", "Roboto", "Segoe UI", "Arial", "sans-serif";
-}
-
 ol,
 ul {
   font-size: 14px;
@@ -11,49 +6,33 @@ ul {
   padding-inline-end: 50px;
   padding-inline-start: 50px;
 }
-
 #container .title {
   left: 50%;
   margin: auto;
   margin-top: 65px;
   text-align: center;
-  width: 400px;
 }
-
-#container .card {
-  background: #efefef;
-  border: 1px solid #1a1a1a;
-  border-radius: 7px;
+#container .card-custom {
   box-shadow: 2px 5px 15px #5d5757;
   display: block;
-  height: 500px;
-  left: 50%;
   margin: auto;
   margin-top: 65px;
   text-align: center;
   width: 500px;
 }
-
-#container .card .card-header {
-  background: #d2d2d2;
-  border-radius: 8px;
-  height: 10%;
+#container .card-custom .card-custom-header {
   padding: 10px;
 }
-
-#container .card .card-header p {
+#container .card-custom .card-custom-header p {
   font-size: 2em;
   font-weight: bold;
-  margin: 0;
   position: relative;
   top: 10px;
 }
-
-#container .card .card-body {
+#container .card-custom .card-custom-body {
   border-top: 1px solid #1a1a1a;
   padding: 15px;
 }
-
-#container .card .card-body p {
+#container .card-custom .card-custom-body p {
   font-size: 1.5em;
 }
