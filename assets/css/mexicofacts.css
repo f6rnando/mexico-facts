@@ -1,10 +1,21 @@
 /* Author: Fernando Pinto f6rnando@gmail.com */
+.text-white-70 {
+  color: rgba(255, 255, 255, 0.7);
+}
 ol,
 ul {
+  color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
-  text-align: left;
+  margin-left: 4rem;
   padding-inline-end: 50px;
   padding-inline-start: 50px;
+  text-align: left;
+}
+ol li,
+ul li {
+  color: rgba(255, 255, 255, 0.7);
+  background: none !important;
+  border: 1px solid #f1f1f1 !important;
 }
 #container .title {
   left: 50%;
@@ -13,26 +24,27 @@ ul {
   text-align: center;
 }
 #container .card-custom {
-  box-shadow: 2px 5px 15px #5d5757;
   display: block;
   margin: auto;
   margin-top: 65px;
   text-align: center;
-  width: 500px;
+  width: 700px;
 }
 #container .card-custom .card-custom-header {
   padding: 10px;
 }
 #container .card-custom .card-custom-header p {
+  color: #f1f1f1;
   font-size: 2em;
   font-weight: bold;
   position: relative;
   top: 10px;
 }
 #container .card-custom .card-custom-body {
-  border-top: 1px solid #1a1a1a;
+  border-top: 1px solid #f1f1f1;
   padding: 15px;
 }
 #container .card-custom .card-custom-body p {
+  color: rgba(255, 255, 255, 0.7);
   font-size: 1.5em;
 }

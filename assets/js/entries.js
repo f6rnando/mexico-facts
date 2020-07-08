@@ -62,7 +62,7 @@ var entries = [{
   },
   {
     "title": "Independencia",
-    "description": "El <strong>Plan de Iguala</strong> fue un documento proclamado por Agustín Iturbide en Guerrero el 24 de Febrero de 1821 en el cual se declaraba a la Nueva España como país independiente, incluyendo: <ol><li>Establecer la independencia de México</li><li>Mantener la monarquía de Fernando VII</li><li>Establecer la religión católica como única</li><li>La unión de todas las clases sociales</li></ol>"
+    "description": "El <strong>Plan de Iguala</strong> fue un documento proclamado por Agustín Iturbide en Guerrero el 24 de Febrero de 1821 en el cual se declaraba a la Nueva España como país independiente, incluyendo: <ol><li class='list-group-item'>Establecer la independencia de México</li><li class='list-group-item'>Mantener la monarquía de Fernando VII</li><li class='list-group-item'>Establecer la religión católica como única</li><li class='list-group-item'>La unión de todas las clases sociales</li></ol>"
   },
   {
     "title": "Independencia",
@@ -90,7 +90,7 @@ var entries = [{
   },
   {
     "title": "Galardones",
-    "description": "Los mexicanos que han recibido un premio Nobel son <ul><li>Alfonso García Robles, Premio Nobel de la Paz en 1982 - Participó en la firma del Tratado de Tlatelolco (No proliferación nuclear)</li><li>Octavio Paz, Premio Nobel de Literatura en 1990 - Se le considera como uno de los grandes poetas hispanos de todos los tiempos</li><li>José Mario Molina Henriquez, Premio Nobel de Química en 1995 - Fue uno de los descubridores de las causas del agujero de ozono antártico</li></ul>"
+    "description": "Los mexicanos que han recibido un premio Nobel son <ul class='list-group'><li class='list-group-item'>Alfonso García Robles, Premio Nobel de la Paz en 1982 - Participó en la firma del Tratado de Tlatelolco (No proliferación nuclear)</li><li class='list-group-item'>Octavio Paz, Premio Nobel de Literatura en 1990 - Se le considera como uno de los grandes poetas hispanos de todos los tiempos</li><li class='list-group-item'>José Mario Molina Henriquez, Premio Nobel de Química en 1995 - Fue uno de los descubridores de las causas del agujero de ozono antártico</li></ul>"
   },
   {
     "title": "Galardones",
@@ -114,7 +114,7 @@ var entries = [{
   },
   {
     "title": "UNESCO",
-    "description": "Hasta 2018, México cuenta con 35 lugares designados como Patrimonio de la Humanidad, siendo el 7mo país con mayor cantidad de sitios inscritos en la lista y el primero en Latinoamérica<br /><ul><li>27 como bien cultural</li><li>6 como bien natural</li><li>2 como bien mixto</li><li>Además cuenta con 9 tradiciones y festejos como bien inmaterial</li></ul>"
+    "description": "Hasta 2018, México cuenta con 35 lugares designados como Patrimonio de la Humanidad, siendo el 7mo país con mayor cantidad de sitios inscritos en la lista y el primero en Latinoamérica<br /><ul class='list-group'><li class='list-group-item'>27 como bien cultural</li><li class='list-group-item'>6 como bien natural</li><li class='list-group-item'>2 como bien mixto</li><li class='list-group-item'>Además cuenta con 9 tradiciones y festejos como bien inmaterial</li></ul>"
   },
   {
     "title": "Naturaleza",
@@ -138,7 +138,7 @@ var entries = [{
   },
   {
     "title": "Geografía",
-    "description": "Las Entidades Federativas que componen la frontera sur de México son:<br /><ul><li>Quintana Roo</li><li>Chiapas</li><li>Campeche</li><li>Tabasco</li></ul>"
+    "description": "Las Entidades Federativas que componen la frontera sur de México son:<br /><ul class='list-group'><li class='list-group-item'>Quintana Roo</li><li class='list-group-item'>Chiapas</li><li class='list-group-item'>Campeche</li><li class='list-group-item'>Tabasco</li></ul>"
   },
   {
     "title": "Deporte",
@@ -146,7 +146,7 @@ var entries = [{
   },
   {
     "title": "Arte y Cultura",
-    "description": "El <strong>Premio Cervantes</strong> es considerado como el máximo galardón de la literatura en español. Los escritores mexicanos que han ganado este premio son:<br /><ul><li>Octavio Paz, fue el primer mexicano en recibir este premio en 1981</li><li>Carlos Fuentes, recibió el premio en 1987</li><li>Sergio Pitol, recibió el premio en 2005</li><li>José Emilio Pacheco, recibió el premio en 2009</li><li> Elena Poniatowska, recibió el premio en 2014</li><li>Fernando del Paso, recibió el premio en 2015</li></ul>"
+    "description": "El <strong>Premio Cervantes</strong> es considerado como el máximo galardón de la literatura en español. Los escritores mexicanos que han ganado este premio son:<br /><ul class='list-group'><li class='list-group-item'>Octavio Paz, fue el primer mexicano en recibir este premio en 1981</li><li class='list-group-item'>Carlos Fuentes, recibió el premio en 1987</li><li class='list-group-item'>Sergio Pitol, recibió el premio en 2005</li><li class='list-group-item'>José Emilio Pacheco, recibió el premio en 2009</li><li class='list-group-item'> Elena Poniatowska, recibió el premio en 2014</li><li class='list-group-item'>Fernando del Paso, recibió el premio en 2015</li></ul>"
   },
   {
     "title": "Arte y Cultura",
@@ -178,7 +178,7 @@ var entries = [{
   },
   {
     "title": "Economía",
-    "description": "Los principales productos de exportación de México son:<br /><ul><li>Chile</li><li>Aguacate</li><li>Tomate</li><li>Pimiento</li><li>Sandía</li><li>Pepino</li><li>Limón</li><li>Cebolla</li><li>Papaya</li><li>Cerveza</li><li>Tequila</li><li>Azúcar de caña</li><li>Frutos Rojos</li></ul>"
+    "description": "Los principales productos de exportación de México son:<br /><ul class='list-group'><li class='list-group-item'>Chile</li><li class='list-group-item'>Aguacate</li><li class='list-group-item'>Tomate</li><li class='list-group-item'>Pimiento</li><li class='list-group-item'>Sandía</li><li class='list-group-item'>Pepino</li><li class='list-group-item'>Limón</li><li class='list-group-item'>Cebolla</li><li class='list-group-item'>Papaya</li><li class='list-group-item'>Cerveza</li><li class='list-group-item'>Tequila</li><li class='list-group-item'>Azúcar de caña</li><li class='list-group-item'>Frutos Rojos</li></ul>"
   },
   {
     "title": "Historia",
@@ -186,7 +186,7 @@ var entries = [{
   },
   {
     "title": "Legislación y Política",
-    "description": "Los Símbolos Pátrios mexicanos son:<br /><ol><li>El Himno Nacional - A pesar de usarse desde 1854 se hizo oficial desde 1943</li><li>La Bandera - El diseño actual se adoptó desde el 16 de Septiembre de 1968</li><li>El Escudo - Inspirado en la leyenda de la fundación de México-Tenochtitlan, su diseño actual se usa desde 1968</li></ol>"
+    "description": "Los Símbolos Pátrios mexicanos son:<br /><ol><li class='list-group-item'>El Himno Nacional - A pesar de usarse desde 1854 se hizo oficial desde 1943</li><li class='list-group-item'>La Bandera - El diseño actual se adoptó desde el 16 de Septiembre de 1968</li><li class='list-group-item'>El Escudo - Inspirado en la leyenda de la fundación de México-Tenochtitlan, su diseño actual se usa desde 1968</li></ol>"
   },
   {
     "title": "Arte y Cultura",
@@ -226,7 +226,7 @@ var entries = [{
   },
   {
     "title": "Educación",
-    "description": "La <strong>educación en México</strong> se compone de:<br /><br />Educación Básica<br /><ul><li>Preescolar: 3 años</li><li>Educación Primaria: 6 anos</li><li>Educación Secundaria: 3 años</li></ul><br /><br /><p>Educación Media Superior (Preparatoria): 2 o 3 años<br /><br />Educación Superior</p>"
+    "description": "La <strong>educación en México</strong> se compone de:<br /><ul class='list-group'><li class='list-group-item'><strong>Educación Básica</strong></li><li class='list-group-item'>Preescolar: 3 años</li><li class='list-group-item'>Educación Primaria: 6 anos</li><li class='list-group-item'>Educación Secundaria: 3 años</li><li class='list-group-item'><strong>Educación Media Superior (Preparatoria)</strong>: 2 o 3 años</li><li class='list-group-item'><strong>Educación Superior</strong></li></ul>"
   },
   {
     "title": "Arte y Cultura",
@@ -262,7 +262,7 @@ var entries = [{
   },
   {
     "title": "Arte y Cultura",
-    "description": "<strong>Francisco Gabilondo Soler</strong>, mejor conocido como <strong>Cri Cri</strong>, fue un cantautor mexicano de música infantil. Fue presentador de un programa de radio para niños, para el cual creó al personaje Cri Cri, el grillito cantor. Entre sus primeras emisiones destacaron las canciones <ul><li>El Chorrito</li><li>Batallón de Plomo</li><li>Bombón</li><li>El Ropero</li></ol>"
+    "description": "<strong>Francisco Gabilondo Soler</strong>, mejor conocido como <strong>Cri Cri</strong>, fue un cantautor mexicano de música infantil. Fue presentador de un programa de radio para niños, para el cual creó al personaje Cri Cri, el grillito cantor. Entre sus primeras emisiones destacaron las canciones <ul class='list-group'><li class='list-group-item'>El Chorrito</li><li class='list-group-item'>Batallón de Plomo</li><li class='list-group-item'>Bombón</li><li class='list-group-item'>El Ropero</li></ol>"
   },
   {
     "title": "Legislación y Política",
@@ -314,7 +314,7 @@ var entries = [{
   },
   {
     "title": "Gastronomía",
-    "description": "El <strong>Mole</strong> consiste de varios tipos de salsas mexicanas hechas principalmente a base de chiles y especias. Su origen se remonta a la época prehispánica en 1685 en el convento de Santa Rosa de Lima Puebla. Originalmente hacía referencia a cualquier salsa y actualmente sirve para nombrar varios platillos de la cocina mexicana que contengan los siguientes ingredientes:<ol><li>Chocolate amargo</li><li>Chiles anchos</li><li>Chiles mulato</li><li>Chiles de pasilla</li><li><Chipotle/li><li>Jitomate</li><li>Almendras</li><li>Plátano</li><li>Nueces</li><li>Pasas</li><li>Ajonjolí</li><li>Clavo</li><li>Canela</li><li>Perejil</li><li>Pimienta</li><li>Cebolla</li><li>Ajo</li><li>Tortilla</li></ol>"
+    "description": "El <strong>Mole</strong> consiste de varios tipos de salsas mexicanas hechas principalmente a base de chiles y especias. Su origen se remonta a la época prehispánica en 1685 en el convento de Santa Rosa de Lima Puebla. Originalmente hacía referencia a cualquier salsa y actualmente sirve para nombrar varios platillos de la cocina mexicana que contengan los siguientes ingredientes:<ol><li class='list-group-item'>Chocolate amargo</li><li class='list-group-item'>Chiles anchos</li><li class='list-group-item'>Chiles mulato</li><li class='list-group-item'>Chiles de pasilla</li><li class='list-group-item'>Chipotle</li><li class='list-group-item'>Jitomate</li><li class='list-group-item'>Almendras</li><li class='list-group-item'>Plátano</li><li class='list-group-item'>Nueces</li><li class='list-group-item'>Pasas</li><li class='list-group-item'>Ajonjolí</li><li class='list-group-item'>Clavo</li><li class='list-group-item'>Canela</li><li class='list-group-item'>Perejil</li><li class='list-group-item'>Pimienta</li><li class='list-group-item'>Cebolla</li><li class='list-group-item'>Ajo</li><li class='list-group-item'>Tortilla</li></ol>"
   },
   {
     "title": "Arte y Cultura",
@@ -322,7 +322,7 @@ var entries = [{
   },
   {
     "title": "Legislación y Política",
-    "description": "La <strong>Cámara de Senadores del Congreso de la Unión</strong>, pertenece al Poder Legislativo federal de México. Se compone de 128 senadores electos representantes de las entidades federativas para un período de 6 años.<br ><ul><li>2 Senadores por cada entidad federativa (31 estados y CDMX) - 64</li><li>32 Senadores a la primera minoría</li><li>32 Senadores electos según la representación proporcional</li></ul>"
+    "description": "La <strong>Cámara de Senadores del Congreso de la Unión</strong>, pertenece al Poder Legislativo federal de México. Se compone de 128 senadores electos representantes de las entidades federativas para un período de 6 años.<br ><ul class='list-group'><li class='list-group-item'>2 Senadores por cada entidad federativa (31 estados y CDMX) - 64</li><li class='list-group-item'>32 Senadores a la primera minoría</li><li class='list-group-item'>32 Senadores electos según la representación proporcional</li></ul>"
   }
   /*,
       {
@@ -380,18 +380,19 @@ var entries = [{
 ];
 
 var backgrounds = [
-  "#ccc",
-  "#d8aeae",
-  "#b698b9",
-  "#b1a3bb",
-  "#a198b9",
-  "#8b98d0",
-  "#8bafd0",
-  "#8bbfd0",
-  "#8bd0be",
-  "#8bd095",
-  "#aeca98",
-  "#cac798",
-  "#cab398",
-  "#f5c58d"
+  "#415f46",
+  "#5f4141",
+  "#5f4153",
+  "#46415f",
+  "#414f5f",
+  "#415f5e",
+  "#313131",
+  "#171717",
+  "#3c2121",
+  "#2a213c",
+  "#21353c",
+  "#213c2d",
+  "#383c21",
+  "#794813",
+  "#808080"
 ];
