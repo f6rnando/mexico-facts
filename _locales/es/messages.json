@@ -1,0 +1,10 @@
+{
+    "appName": {
+      "message": "Mexico Facts",
+      "description": "Expand you knowledge about Mexico. Every time you open a new tab you'll get a random fact about Mexico."
+    },
+    "appDesc": {
+      "message": "Expand you knowledge about Mexico. Every time you open a new tab you'll get a random fact about Mexico.", 
+      "description":"Expand you knowledge about Mexico. Every time you open a new tab you'll get a random fact about Mexico."
+    }
+  }

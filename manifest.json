@@ -1,14 +1,14 @@
 {
     "manifest_version": 2,
     "name": "Mexico Facts",
-    "version": "0.2",
+    "version": "0.3",
     "chrome_url_overrides": {
         "newtab": "index.html"
     },
     "icons": {
         "128": "assets/img/M_Logo.png"
     },
-    "default_locale": "es",
-    "description": "Expand you knowledge about Mexico. Every time you open a new tab you'll get a random fact about Mexico.",
-    "author": "Fernando Pinto"
+    "description": "Expande tu conocimiento sobre Mexico. Al abrir una nueva pestaña de tu navegador, obtendrás un dato aleatorio sobre México.",
+    "author": "Fernando Pinto",
+    "default_locale": "es"
 }
